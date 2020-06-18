@@ -1,7 +1,11 @@
-# Events & GitHub Talent Acquisition 
-### Hosting a virtual event at GitHub or representing :octocat: at an external event? This repo is for you! 
+# GitHub Community
+### Thank you for attending our recent :octocat: virtual event! We are beyond happy that you took time to join us discussing XXX. Due to the current global climate that we are in, we are doing all that we can to give you the experience of an "in person event" from your screen. To do so, we've created this repo for you to connect with likeminded professionals to share usefull information, resources and of course to network!
 
-#### GitHub TA is here to help you :speaker: amplify :speaker: your event, capture the correct data, share best practices around running successful events, and support your recruiting/talent acquisition goals. 
+#### Below are issues related to specific sectors. go ahead, take a look and make a contribution!
+:point_right: [Sales] (https://github.com/freshprince95/Events-Community/issues/4)
+
+
+
 
 #### Step 1: :point_right: [Review Our Best Practices, Recommendations, & Things to Think About](https://github.com/kirstenwright/events-and-talent/blob/master/Best%20Practices%20%26%20Recommendations.md#best-practices-recommendations-things-to-think-about)
 
