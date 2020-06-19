@@ -1,4 +1,4 @@
-# GitHub Community
+# GitHub Community :family:
 ### Thank you for attending our recent virtual event :octocat:! It was a pleasure to have you join us. 
 
 
