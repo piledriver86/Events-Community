@@ -1,6 +1,7 @@
+# GitHub Community :family:
+
 ![GitHub logo](https://user-images.githubusercontent.com/53534651/85159117-f83d8600-b254-11ea-903d-a68a27291efb.png)
 
-# GitHub Community :family:
 ### Thank you for attending our recent virtual event :octocat:! It was a pleasure to have you join us. 
 
 
