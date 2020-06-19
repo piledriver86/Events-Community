@@ -4,7 +4,8 @@
 
 Due to the current global climate that we are in, we are doing all that we can to give you the experience of an "in person event" virtually. To do so, we've created this repo to help you connect with likeminded professionals to share useful information, resources and to network!
 
-#### Below are issues related to specific sectors. go ahead, take a look and make a contribution!
+#### Below are communities related to differing skill sets in the form of an issue. We've made seperate issues for different skill sets to keep the information included accurate and relevant. Because of this, you can join these communities with confidence that other contributors share the same passion as you. Go ahead, take a look and make a contribution! 
+
 :point_right: [Sales](https://github.com/freshprince95/Events-Community/issues/4) :octocat:
 
 :point_right: [Support](https://github.com/freshprince95/Events-Community/issues/3) :octocat:
