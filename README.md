@@ -21,5 +21,5 @@ Due to the current global climate that we are in, we are doing all that we can t
 
 
 #### Want to recap on part(s) of the recent GitHub virtual event?
-:point_right: [recorded sessions](https://github.com/freshprince95/Events-Community/issues/5) :octocat:
+:point_right: [Recorded Sessions](https://github.com/freshprince95/Events-Community/issues/5) :octocat:
 
