@@ -1,4 +1,4 @@
-# GitHub Community :octocat:
+# GitHub Community 
 
 ![GitHub logo](https://user-images.githubusercontent.com/53534651/85159117-f83d8600-b254-11ea-903d-a68a27291efb.png)
 
