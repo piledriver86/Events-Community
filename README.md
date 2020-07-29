@@ -9,17 +9,17 @@ Due to the current global climate that we are in, we are doing all that we can t
 
 #### Below are communities related to differing skill sets in the form of an issue. We've made separate issues for different skill sets to keep the information included accurate and relevant. Because of this, you can join these communities with confidence that other contributors share the same passion as you. Go ahead, take a look at the community most relevant to you and make a contribution! 
 
-#### :arrow_right: [Security](https://github.com/freshprince95/Events-Community/issues/6) :octocat:
+#### :arrow_right: [Security](https://github.com/freshprince95/Events-Community/issues/6)
 
-#### :arrow_right: [Sales](https://github.com/freshprince95/Events-Community/issues/4) :octocat:
+#### :arrow_right: [Sales](https://github.com/freshprince95/Events-Community/issues/4) 
 
-#### :arrow_right: [Support](https://github.com/freshprince95/Events-Community/issues/3) :octocat:
+#### :arrow_right: [Support](https://github.com/freshprince95/Events-Community/issues/3) 
 
-#### :arrow_right: [Product](https://github.com/freshprince95/Events-Community/issues/2) :octocat:
+#### :arrow_right: [Product](https://github.com/freshprince95/Events-Community/issues/2) 
 
-#### :arrow_right: [Engineering](https://github.com/freshprince95/Events-Community/issues/1) :octocat:
+#### :arrow_right: [Engineering](https://github.com/freshprince95/Events-Community/issues/1)
 
 
 #### Want to recap on part(s) of the recent GitHub virtual event?
-#### :arrow_right: [Recorded Sessions](https://github.com/freshprince95/Events-Community/issues/5) :octocat:
+#### :arrow_right: [Recorded Sessions](https://github.com/freshprince95/Events-Community/issues/5) 
 
