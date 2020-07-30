@@ -19,7 +19,3 @@ Due to the current global climate that we are in, we are doing all that we can t
 
 #### :arrow_right: [Engineering](https://github.com/freshprince95/Events-Community/issues/1)
 
-
-#### Want to recap on part(s) of the recent GitHub virtual event?
-#### :arrow_right: [Recorded Sessions](https://github.com/freshprince95/Events-Community/issues/5) 
-
