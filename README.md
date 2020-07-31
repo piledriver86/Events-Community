@@ -1,6 +1,6 @@
 # GitHub Community :busts_in_silhouette:
 
-![GitHub logo](https://user-images.githubusercontent.com/53534651/85159117-f83d8600-b254-11ea-903d-a68a27291efb.png)
+<a href="url"><img src="https://user-images.githubusercontent.com/53534651/86800904-69f63c00-c06b-11ea-95d4-2ffbfacb85c5.png" align="center" height="500" width="500" ></a>
 
 ### Thank you for attending our recent virtual event :octocat:, it was a pleasure to have you join us! 
 
