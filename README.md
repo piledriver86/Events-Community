@@ -16,7 +16,5 @@ Due to the current global climate that we are in, we are doing all that we can t
 
 #### :arrow_right: [Support](https://github.com/freshprince95/Events-Community/issues/3) :question:
 
-#### :arrow_right: [Product](https://github.com/freshprince95/Events-Community/issues/2) :construction_worker:
-
 #### :arrow_right: [Engineering](https://github.com/freshprince95/Events-Community/issues/1) :woman_technologist:
 
