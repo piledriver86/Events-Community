@@ -2,7 +2,7 @@
 
 <a href="url"><img src="https://user-images.githubusercontent.com/53534651/86800904-69f63c00-c06b-11ea-95d4-2ffbfacb85c5.png" align="center" height="500" width="500" ></a>
 
-### Thank you for attending our recent virtual event :octocat:, it was a pleasure to have you join us! 
+### Thank you for attending our recent virtual event, it was a pleasure to have you join us! 
 
 # Purpose :trophy:
 
