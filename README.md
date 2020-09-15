@@ -1,6 +1,6 @@
 # GitHub Community :busts_in_silhouette:
 
-![femalecodertocat](https://user-images.githubusercontent.com/53534651/89125199-923f5200-d4d4-11ea-99b0-a7a055ff5244.png)
+![femalecodertocat](https://user-images.githubusercontent.com/53534651/93193699-16752e00-f73f-11ea-8869-036bd24d6c6b.png)
 
 ### Thank you for attending our recent virtual event, it was a pleasure to have you join us! 
 
