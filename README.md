@@ -9,6 +9,8 @@ Due to the current global climate that we are in, we are doing all that we can t
 
 Below are communities related to differing skill sets. We have deliberately created a separate space for different professions to keep all information & resources contained most relevant to you. Go ahead, take a look at the community most relevant to your skills and make a contribution! 
 
+#### :arrow_right: [OctoGatos](https://github.com/freshprince95/Events-Community/issues/8) :octocat:
+
 #### :arrow_right: [Security](https://github.com/freshprince95/Events-Community/issues/6) :closed_lock_with_key:
 
 #### :arrow_right: [Sales](https://github.com/freshprince95/Events-Community/issues/4) :dollar:
