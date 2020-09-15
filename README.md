@@ -1,4 +1,4 @@
-# GitHub Community :busts_in_silhouette:
+# GitHub Events Community :busts_in_silhouette:
 
 ![femalecodertocat](https://user-images.githubusercontent.com/53534651/93193699-16752e00-f73f-11ea-8869-036bd24d6c6b.png)
 
