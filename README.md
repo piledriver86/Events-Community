@@ -5,7 +5,7 @@
 
 # Purpose :trophy:
 
-Due to the current global climate that we are in, we are doing all that we can to give you the experience of an "in person event" virtually. To do so, we've created this repo to help you connect with likeminded professionals to share useful information, resources and to network!
+Due to the current global climate that we are in, we are doing all that we can to give you the experience of an "in person event" virtually. To do so, we've created this repo to help you connect with like-minded professionals to share useful information, resources and to network!
 
 Below are communities related to differing skill sets. We have deliberately created a separate space for different professions to keep all information & resources contained most relevant to you. Go ahead, take a look at the community most relevant to your skills and make a contribution! 
 
